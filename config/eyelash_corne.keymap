@@ -56,7 +56,7 @@
         compatible = "zmk,combos";
 
         right_brace {
-            bindings = <&kp RIGHT_BRACKET>;
+            bindings = <&kp LEFT_BRACKET>;
             key-positions = <11 12>;
         };
     };
